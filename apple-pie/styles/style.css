@@ -34,9 +34,9 @@ body {
 /* STYLES */
 /* Write your CSS below */
 
-* {
+/* * {
   border: 1px solid red;
-}
+} */
 
 header {
   display: flex;
